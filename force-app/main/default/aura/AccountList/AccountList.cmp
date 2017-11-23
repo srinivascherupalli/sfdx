@@ -1,0 +1,12 @@
+<aura:component controller="CRIT_SFDX">
+
+    <aura:attribute name="getAccounts" type="Account[]"/>
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}" />
+
+    <ul>
+    <aura:iteration items="{!v.getAccounts}" var="account">
+        {!account}
+    </aura:iteration>
+    </ul>
+
+</aura:component>
