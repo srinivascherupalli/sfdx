@@ -1,0 +1,116 @@
+[
+    [
+        "/home/sreez/sfdx/Project1/force-app",
+        {
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511476139759,
+            "changeTime": 1511476139759,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main",
+        {
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511476139759,
+            "changeTime": 1511476139759,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main/default",
+        {
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511476139759,
+            "changeTime": 1511476139759,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511476139759,
+            "changeTime": 1511476139759,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1",
+        {
+            "sourcePath": "/home/sreez/sfdx/Project1",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511476436011,
+            "changeTime": 1511476436011,
+            "contentHash": "3cfd63e9b9a09ab31a40d63c8d92a7aa3bf2c884",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main/default/classes",
+        {
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511476770443,
+            "changeTime": 1511476770443,
+            "contentHash": "8b2eb60220bcaa39a57c3847ea5d3b0d5d086f03",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 217,
+            "modifiedTime": 1511476963839,
+            "changeTime": 1511476963839,
+            "contentHash": "23da0ba1c74982a45563b3317f89d1a4285b4f24"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511476963839,
+            "changeTime": 1511476963839,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ]
+]
