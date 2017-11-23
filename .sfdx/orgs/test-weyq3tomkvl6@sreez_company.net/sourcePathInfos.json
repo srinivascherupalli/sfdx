@@ -77,40 +77,66 @@
     [
         "/home/sreez/sfdx/Project1/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1511476770443,
-            "changeTime": 1511476770443,
-            "contentHash": "8b2eb60220bcaa39a57c3847ea5d3b0d5d086f03",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 4096,
+            "modifiedTime": 1511477351647,
+            "changeTime": 1511477351647,
+            "contentHash": "24481e663bc4379d0a9275e452b46a74761a39fe"
         }
     ],
     [
         "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls",
         {
-            "state": "u",
             "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 217,
             "modifiedTime": 1511476963839,
             "changeTime": 1511476963839,
-            "contentHash": "23da0ba1c74982a45563b3317f89d1a4285b4f24"
+            "contentHash": "23da0ba1c74982a45563b3317f89d1a4285b4f24",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1511476963839,
             "changeTime": 1511476963839,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX_TEST.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX_TEST.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1511477351647,
+            "changeTime": 1511477351647,
             "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX_TEST.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/sreez/sfdx/Project1/force-app/main/default/classes/CRIT_SFDX_TEST.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 488,
+            "modifiedTime": 1511477351647,
+            "changeTime": 1511477351647,
+            "contentHash": "55fd4f63aef8d9b7c4d5e2f0c70d9773816add9a"
         }
     ]
 ]
