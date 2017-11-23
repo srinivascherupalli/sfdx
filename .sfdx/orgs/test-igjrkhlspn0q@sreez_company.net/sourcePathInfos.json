@@ -77,16 +77,14 @@
     [
         "/home/sreez/sfdx/Project2/force-app/main/default/classes/CRIT_SFDX.cls",
         {
+            "state": "u",
             "sourcePath": "/home/sreez/sfdx/Project2/force-app/main/default/classes/CRIT_SFDX.cls",
             "isDirectory": false,
-            "size": 217,
-            "modifiedTime": 1511477779695,
-            "changeTime": 1511477779695,
-            "contentHash": "23da0ba1c74982a45563b3317f89d1a4285b4f24",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 397,
+            "modifiedTime": 1511479258803,
+            "changeTime": 1511479258803,
+            "contentHash": "4ef2015f4b5a44bdfced33f24e061fdef888d50f"
         }
     ],
     [
