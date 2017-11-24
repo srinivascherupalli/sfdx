@@ -1,0 +1,383 @@
+[
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511496265275,
+            "changeTime": 1511496265275,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511496265275,
+            "changeTime": 1511496265275,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "9180203825c3e74327dc43a0f874712881f07d18",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "9f4e9b0cab6741ba647c66479bbaab0a9a2ce7bb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 228,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "379d947ebfaf249a903d8b860a7dcc5904e5d4aa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "d2fdcfd6e18b15889904738a1e82c97ab8fd8108",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "size": 44,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 49,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1511498665895,
+            "changeTime": 1511498665895,
+            "isWorkspace": false,
+            "contentHash": "e9e967e723a8555a52dc933e7a0be3c9302bc7b5"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Account.cls",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Account.cls",
+            "isDirectory": false,
+            "size": 78,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "960a0bf6b62bdcc3b9680f77ec96a1574ea7127f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Account.cls-meta.xml",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Account.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "8a1a063c5538b273b404ebf9b14651646eddc768",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX.cls",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX.cls",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "4ef2015f4b5a44bdfced33f24e061fdef888d50f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX.cls-meta.xml",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX_TEST.cls",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX_TEST.cls",
+            "isDirectory": false,
+            "size": 488,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "55fd4f63aef8d9b7c4d5e2f0c70d9773816add9a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX_TEST.cls-meta.xml",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_SFDX_TEST.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject",
+            "isDirectory": true,
+            "size": 4096,
+            "modifiedTime": 1511496330923,
+            "changeTime": 1511496330923,
+            "contentHash": "faabf15d11efc3bc85dedcf75bd078f100435301",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info.cls",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info.cls",
+            "isDirectory": false,
+            "size": 230,
+            "modifiedTime": 1511498609011,
+            "changeTime": 1511498435011,
+            "contentHash": "86af14aa08736e5c64b914bd306601620022c9bb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info.cls-meta.xml",
+        {
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info.cls-meta.xml",
+            "isDirectory": false,
+            "size": 202,
+            "modifiedTime": 1511498521135,
+            "changeTime": 1511498144099,
+            "contentHash": "3c484c021a18e7ac3cdc748ec11ce55054d37767",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info_Test.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info_Test.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1532,
+            "modifiedTime": 1511498680739,
+            "changeTime": 1511498680739,
+            "contentHash": "5c6a12f891cac31442792b771917fa442d327318"
+        }
+    ],
+    [
+        "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info_Test.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/sreez/sfdx/sfdxproject/force-app/main/default/classes/CRIT_Update_Contact_Info_Test.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 207,
+            "modifiedTime": 1511498665895,
+            "changeTime": 1511498665895,
+            "contentHash": "749cb879c097bd8d033c4ed1fe1de71452ba2384"
+        }
+    ]
+]

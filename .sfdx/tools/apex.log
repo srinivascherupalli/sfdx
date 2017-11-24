@@ -1,0 +1,6 @@
+Nov 24, 2017 3:35:46 PM apex.jorje.parser.impl.BaseApexLexer dedupe
+INFO: Deduped array ApexLexer.DFA22_transition. Found 7730596 15:35:49.546 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Patching standard library for System.Database.* methods
+15:35:49.552 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Done patching standard library for System.Database.* methods
+15:35:50.342 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - Scanning user-defined types.
+15:35:50.342 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Scanning built-in and system Apex types took 4174 ms.
+15:35:50.473 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - Scanning user-defined types took 130 ms.
